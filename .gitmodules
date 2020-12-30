@@ -1,0 +1,6 @@
+[submodule "src/GamblersRuin"]
+	path = src/GamblersRuin
+	url = https://github.com/RagingTiger/GamblersRuin
+[submodule "src/investing"]
+	path = src/investing
+	url = https://github.com/RagingTiger/investing
